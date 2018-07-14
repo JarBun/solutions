@@ -1,2 +1,2 @@
-# solutions
+# Solutions
 Solutions to programming problems
